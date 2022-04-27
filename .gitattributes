@@ -1,0 +1,4 @@
+.ttf filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.tga filter=lfs diff=lfs merge=lfs -text
+/Assets/PhotonAgora/photon_and_agora_package/AgoraEngine/Plugins/** filter=lfs diff=lfs merge=lfs -text
